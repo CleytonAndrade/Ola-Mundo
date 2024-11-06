@@ -1,9 +1,9 @@
-# Olá, Mundo!!
+# Olá, Mundo!!🇧🇷
 
  Primeiro repositório do curso de Git e GitHub 
  ***
  
-## Treinando **Markdown**!!
+## Treinando **Markdown**!!👇
  
  **Negrito**
  *Itálico*
