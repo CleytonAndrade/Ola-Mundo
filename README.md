@@ -57,7 +57,7 @@ var
 texto, trecho : string;
 begin
    if texto = trecho then begin
-      write('Entre tres crases');
+      write('Se for um trecho de um programa fica entre tres crases');
    end;
 end.
 ```
